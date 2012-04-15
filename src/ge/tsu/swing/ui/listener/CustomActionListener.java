@@ -1,7 +1,7 @@
 package ge.tsu.swing.ui.listener;
 
 import ge.tsu.swing.MyFactoryImpl;
-import get.tsu.swing.model.CalculationData;
+import ge.tsu.swing.model.CalculationData;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

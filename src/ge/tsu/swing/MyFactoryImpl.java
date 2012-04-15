@@ -5,7 +5,7 @@
 package ge.tsu.swing;
 
 import ge.tsu.swing.ui.listener.CustomActionListener;
-import get.tsu.swing.model.CalculationData;
+import ge.tsu.swing.model.CalculationData;
 
 import java.awt.Font;
 import java.awt.event.ActionListener;
